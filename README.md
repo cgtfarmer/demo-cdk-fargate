@@ -1,4 +1,6 @@
-# Getting Started
+# CDK Fargate Demo
+
+This is a demo showing how to deploy a simple Express API to ECS Fargate with publicly accessible tasks
 
 ## Prerequisites
 
