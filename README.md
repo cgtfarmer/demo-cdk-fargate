@@ -2,6 +2,8 @@
 
 This is a demo showing how to deploy a simple Express API to ECS Fargate with publicly accessible tasks
 
+![LessonGraphics-Fargate](https://github.com/cgtfarmer/demo-cdk-fargate/assets/33764231/1e2b2710-6061-4a95-aaaa-188b5ebd6124)
+
 ## Prerequisites
 
 - Docker
